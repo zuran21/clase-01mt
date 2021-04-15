@@ -13,4 +13,5 @@ requerimientos pc
 12 gamepad
 13 disco duro sd
 14 escritorio
-15 cooler
+15 cooler master
+capital es de s/.4000 
