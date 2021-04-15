@@ -1,0 +1,16 @@
+requerimientos pc
+1 placa madre
+2 procesador
+3 fuente de poder
+4 case
+5 memorias ram
+6 ventiladores
+7 estabilizador
+8 mouse
+9 teclado
+10 monitor
+11 audifonos
+12 gamepad
+13 disco duro sd
+14 escritorio
+15 cooler
